@@ -55,13 +55,14 @@
                     <h1 class="mb-1 font-medium">Sekar Asri Maghfirah</h1>
                     <p class="mb-2 text-[#706f6c] dark:text-[#A1A09A]">20230140128</p>
                     <ul class="flex gap-3 text-sm leading-normal">
-                        <li>
-                            <a href="https://github.com/code-worker-me/PWF-Genap-2025/blob/main/pertemuan-1.md"
-                                class="inline-block px-8 py-3 bg-white text-black font-bold text-lg rounded-full shadow-lg hover:bg-gray-200 hover:shadow-xl focus:outline-none focus:ring-4 focus:ring-gray-300">
-                                Modul Pertemuan 1
-                            </a>
-                        </li>
-                    </ul>
+    <li>
+        <a href="https://github.com/code-worker-me/PWF-Genap-2025/blob/main/pertemuan-1.md"
+           class="inline-block px-5 py-2 bg-white text-[#1b1b18] font-medium border border-[#e3e3e0] rounded-sm hover:border-[#19140035] transition-all"
+           style="color: #000000; margin-top: 1rem;">
+            Modul Pertemuan 1
+        </a>
+    </li>
+</ul>
                 </div>
             </main>
         </div>
