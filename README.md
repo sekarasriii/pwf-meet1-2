@@ -1,4 +1,4 @@
-Hasil screenshot revisi tugas praktikum 1
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f3aa9936-534d-482a-a083-0c0380e60eb2" />Hasil screenshot revisi tugas praktikum 1
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7d0c66ef-38d1-43a8-b07a-d050fee3aa96" />
 
@@ -6,6 +6,9 @@ Hasil screenshot tugas praktikum 2
 <img width="1920" height="1200" alt="Screenshot 2026-02-28 235220" src="https://github.com/user-attachments/assets/7e2a3f14-53dd-4cfc-be5a-d71a1f6f2e14" />
 <img width="1920" height="1200" alt="Screenshot 2026-02-28 235326" src="https://github.com/user-attachments/assets/b1a9db1f-f7b5-4ca3-b9d6-a3d5e22ea1a4" />
 <img width="1920" height="1200" alt="Screenshot 2026-02-28 235310" src="https://github.com/user-attachments/assets/a281d8dc-4ada-4c15-978c-80d35115432e" />
+
+Hasil screenshot saat pengumpulan tugas
+<img width="1920" height="1200" alt="Screenshot 2026-03-01 001816" src="https://github.com/user-attachments/assets/7da7d3b0-530a-47ae-8296-e7f48c0a1329" />
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
