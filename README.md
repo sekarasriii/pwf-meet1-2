@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f3aa9936-534d-482a-a083-0c0380e60eb2" />Hasil screenshot revisi tugas praktikum 1
+Hasil screenshot revisi tugas praktikum 1
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7d0c66ef-38d1-43a8-b07a-d050fee3aa96" />
 
