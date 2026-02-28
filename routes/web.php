@@ -1,10 +1,23 @@
 <?php
 
+use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\BiodataController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome', [
-        'name' => 'Sekar Asri Maghfirah',
-        'nim' => '20230140128'
-    ]);
+    return view('welcome');
 });
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth', 'verified'])->name('dashboard');
+
+Route::middleware('auth')->group(function () {
+    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
+    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+
+    Route::get('/about', [BiodataController::class, 'index'])->name('about');
+});
+
+require __DIR__ . '/auth.php';
